@@ -1,1 +1,1 @@
-# create dataset of human trajection
+# to create dataset of human trajectory
